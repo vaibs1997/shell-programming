@@ -1,0 +1,4 @@
+#1/bin/bash -x
+
+num1=10
+num2
